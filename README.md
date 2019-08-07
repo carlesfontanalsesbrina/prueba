@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/esbrina/prueba/_apis/build/status/carlesfontanalsesbrina.prueba?branchName=master)](https://dev.azure.com/esbrina/prueba/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
